@@ -1,1 +1,5 @@
 tesseract-ocr
+tesseract-ocr-hin
+tesseract-ocr-tel
+tesseract-ocr-kan
+tesseract-ocr-eng
