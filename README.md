@@ -8,7 +8,7 @@ Text Extraction: The application uses Tesseract OCR to extract text from the ima
 Keyword Search: Users can search for specific words within the extracted text.
 Live Web Application: The application is deployed and accessible online.
 Live Demo
-Try the live application here: Live Demo Link
+Try the live application here: https://web-app-jmrlvfikcanyvvug9ufuxm.streamlit.app/
 
 Tech Stack
 Python: Core programming language.
