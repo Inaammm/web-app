@@ -4,5 +4,6 @@ pillow
 pytesseract
 streamlit
 gradio
-tesseract
+google-cloud-vision
+
 
