@@ -2,7 +2,7 @@ from PIL import Image
 import pytesseract
 
 # Set the Tesseract path directly
-pytesseract.pytesseract.tesseract_cmd = r'https://github.com/Inaammm/web-app/blob/master/tesseract.exe'
+
 
 
 def extract_text(image):
