@@ -1,1 +1,5 @@
 tesseract-ocr
+hin.traineddata
+kan.traineddata
+tel.traineddata
+eng.traineddata
